@@ -3,6 +3,4 @@ Droplet (Project Novo) is a easy to use idea-sharing platform. The product invol
 
 Story: My friend and I spent the summer of 2017 learning and building this app from the ground up. We got our inspiration from mentors and fellow peers at school. Over the course of 3 months or so, we learned a lot about iOS development and business. This was one of my first 'major' projects undertook. Most of the skills and coding was learned via Youtube or other online sources.
 
-Disclaimer: This repo is in replacement of Jeamz/Novo, which contained unwanted aspects of the project. This new repo was 100% written by me (Jeamz or James Avery). This project was done in collaboration with Sanjay Bhadra (Sanjay-B), but all of the content in this repo is explicitly my own. All trademarked, copyrights, sensitive info or any other contentious aspects of the project have been removed.
-
-If you want to check out other aspects of the project or contact the my friend, co-developer of this project, his github account is here: https://github.com/Sanjay-B
+Disclaimer: This repo is in replacement of Jeamz/Novo, which contained unwanted aspects of the project. This new repo was 100% written by me (Jeamz or James Avery). The other part of the project was written by my friend.
